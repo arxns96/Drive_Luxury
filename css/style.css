@@ -652,8 +652,6 @@ text-decoration: underline;
 .shwrm_cntn h1 {
   font-size: clamp(24px, 5vw, 33px);
   font-weight: 500;
-  height: 0;
-    padding-bottom: 30px;
 }
 
 .shwrm_cntn p {
