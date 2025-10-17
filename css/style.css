@@ -125,7 +125,7 @@ width: auto;
 @media screen and (max-width: 500px) {
 
 .hero {
-background-image:url(File:///Users/arun/Desktop/Portfolio/HTML/Automotive/img/phone_bg1.png);
+background-image:url(https://raw.githubusercontent.com/arxns96/Drive_Luxury/refs/heads/main/img/phone_bg1.png);
   }
 }
 
@@ -981,7 +981,7 @@ font-weight: 500;
 .subscribe_container {
     width: 1240px;
     /* height: 365px; */
-    background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/Automotive/img/rr_banner.png);
+    background-image: url(https://raw.githubusercontent.com/arxns96/Drive_Luxury/refs/heads/main/img/rr_banner.png);
     background-size:     cover;                      
     background-repeat:   no-repeat;
     background-position: 25% 76%;
@@ -992,7 +992,7 @@ font-weight: 500;
 
 @media screen and (max-width: 500px) {
 .subscribe_container {
-background-image: url(File:///Users/arun/Desktop/Portfolio/HTML/Automotive/img/subscribe_mobile1.png);
+background-image: url(https://raw.githubusercontent.com/arxns96/Drive_Luxury/refs/heads/main/img/subscribe_mobile1.png);
   }
 }
 
