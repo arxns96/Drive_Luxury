@@ -725,7 +725,7 @@ margin: 0em 1em 0em 1em;
   justify-content: center;
   flex-direction: column;
   height: 289px;
-  flex: 1 1 auto;
+  flex: 1 1 289px;
   background-color: #F4F6FA;
   border-radius: 16px;
 }
@@ -737,7 +737,7 @@ margin: 0em 1em 0em 1em;
 .why_cards h1 {
   font-size: 19px;
   font-weight: 400;
-margin-bottom: -3px;
+  margin-bottom: -3px;
 }
 
 .why_cards p {
