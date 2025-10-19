@@ -724,6 +724,14 @@ margin: 0em 1em 0em 1em;
   flex: 1 1 289px;
   background-color: #F4F6FA;
   border-radius: 16px;
+  cursor: pointer;
+}
+
+ .why_cards:hover {
+  border: 1px solid #FD375F;
+  -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box;    
+    box-sizing: border-box; 
 }
 
 .why_cards_content {
