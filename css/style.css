@@ -704,7 +704,7 @@ margin: 0em 1em 0em 1em;
 }
 
 .why_cntnt h1 {
-  font-size: 33px;
+  font-size: clamp(24px, 5vw, 33px);
   font-weight: 500;
 }
 
@@ -825,7 +825,7 @@ font-weight: 500;
 }
 
 .ltst_news_cta h1 {
-  font-size: 33px;
+  font-size: clamp(24px, 5vw, 33px);
   font-weight: 500;
 }
 
@@ -896,7 +896,7 @@ text-decoration: underline;
 }
 
 .faq_flex h1 {
-font-size: 33px;
+font-size: clamp(24px, 5vw, 33px);
 text-align: center;
 font-weight: 500;
 }
@@ -1022,7 +1022,7 @@ background-image: url(https://raw.githubusercontent.com/arxns96/Drive_Luxury/ref
 
 .subscribe_content h1 {
   color: #FFFFFF;
-  font-size: 30px;
+  font-size: clamp(28px, 5vw, 30px);
   letter-spacing: 1px;
   font-weight: 400;
   font-family: inherit;
