@@ -489,6 +489,11 @@ overflow: hidden;
   padding-left: 25px;
   width: 100%;
   background-color: white;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  /* Some browsers will not display the caret when using calc, so we put the fallback first */ 
+  background: url("File:///Users/arun/Desktop/Portfolio/HTML/Automotive/img/chev_down.svg") white no-repeat calc(100% - 12px) !important; /* Better placement regardless of input width */
 }
 
 
