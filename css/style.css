@@ -493,7 +493,7 @@ overflow: hidden;
   -moz-appearance: none;
   appearance: none;
   /* Some browsers will not display the caret when using calc, so we put the fallback first */ 
-  background: url("File:///Users/arun/Desktop/Portfolio/HTML/Automotive/img/chev_down.svg") white no-repeat calc(100% - 12px) !important; /* Better placement regardless of input width */
+  background: url("https://raw.githubusercontent.com/arxns96/Drive_Luxury/ba07dc3c16dd880a2890baf850bc24b7461a00d2/img/chev_down.svg") white no-repeat calc(100% - 12px) !important; /* Better placement regardless of input width */
 }
 
 
